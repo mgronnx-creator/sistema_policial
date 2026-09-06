@@ -1,1 +1,1 @@
-02/09/2026 - Avaliação em pares - Avaliação
+02/09/2026 - Avaliação em pares - Avaliação: O código está bem estruturado e apresenta uma boa base. Você utilizou os elementos <header>, <main>, <article>, <section> e <footer>, o que foi uma boa escolha, facilitando a organização e a manutenção do código. Mais adiante, você pode adicionar funcionalidades como cadastrar e editar casos, adicionar suspeitos e evidências, alterar o status e pesquisar casos. No geral, é uma boa base, com uma estrutura HTML limpa e fácil de entender.
